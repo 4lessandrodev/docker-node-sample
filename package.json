@@ -1,0 +1,25 @@
+{
+  "name": "sample",
+  "version": "0.0.1",
+  "description": "sample node docker exemple",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start":"node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ALESSANDROLMENEZES/docker-node-sample.git"
+  },
+  "keywords": [
+    "docker",
+    "node",
+    "wsl"
+  ],
+  "author": "Alessandro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ALESSANDROLMENEZES/docker-node-sample/issues"
+  },
+  "homepage": "https://github.com/ALESSANDROLMENEZES/docker-node-sample#readme"
+}
